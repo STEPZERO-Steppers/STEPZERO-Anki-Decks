@@ -1,6 +1,713 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "5bae91c4-1008-11f0-bc43-6c2f807705b4",
+            "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Colloid Cysts",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "99% of colloid cysts are located at the {{c1::foramen of Monro}}.",
+                        ""
+                    ],
+                    "guid": "yQ|@RE?zCL",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Be suspicious of a colloid cyst if it is not exactly at the {{c1::foramen of Monro}}, as 99% are located there.",
+                        ""
+                    ],
+                    "guid": "bxi>aV;viO",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Colloid cysts should be {{c1::featureless}}, lacking enhancement, calcification, or diffusion restriction.",
+                        ""
+                    ],
+                    "guid": "I[U`d!=Z?r",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In colloid cysts, {{c1::enhancement}}, {{c2::calcification}}, and {{c3::diffusion restriction}} should be absent.",
+                        ""
+                    ],
+                    "guid": "M0Z,+O^;4v",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Mimics of colloid cysts include {{c1::neurocysticercosis}}, {{c2::basilar ectasia}}, and cavernous malformation.",
+                        ""
+                    ],
+                    "guid": "jZw<@G$k,b",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Other mimics of colloid cysts are {{c1::subependymoma}}, intraventricular hemorrhage, and {{c2::meningioma}}.",
+                        ""
+                    ],
+                    "guid": "ADe:3/[yH9",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a colloid cyst report, always mention the {{c1::size}} of the cyst (DUH).",
+                        ""
+                    ],
+                    "guid": "xmJbYcU}S|",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a colloid cyst report, note the presence of {{c1::cavum septum}}, as it affects the {{c2::surgical approach}}.",
+                        ""
+                    ],
+                    "guid": "w}V=rqwA!0",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "In a colloid cyst report, mention {{c1::low T2 signal}}, as it may make the cyst more {{c2::difficult to resect}}.",
+                        ""
+                    ],
+                    "guid": "tOZ(gIP2I,",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zone 1 of the third ventricle is anterior to the {{c1::mammillary bodies/mass intermedia}} and risks occluding the {{c2::foramen of Monro}}.",
+                        ""
+                    ],
+                    "guid": "Q}A7eJZt/b",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zone 2 of the third ventricle is posterior to Zone 1, anterior to the {{c1::aqueduct}}, and is {{c2::low risk}}.",
+                        ""
+                    ],
+                    "guid": "Kpj%M(^4Bs",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Zone 3 of the third ventricle is posterior to Zone 2 and risks occluding the {{c1::aqueduct}}.",
+                        ""
+                    ],
+                    "guid": "JA{C>7KWxy",
+                    "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                    "tags": [
+                        "S0_Colloid_Cysts"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5bb0f89f-1008-11f0-accb-6c2f807705b4",
+                    "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "a54c216784651b_9j-TAB-overview.png"
+                    ],
+                    "name": "TLICS",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>The TLICS system scores thoracolumbar fractures based on {{c1::morphology}} and {{c2::posterior ligamentous complex (PLC)}} injury</div>",
+                                ""
+                            ],
+                            "guid": "f;sTE]jIF%",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, a {{c1::compression}} fracture is worth {{c2::1}} point(s) and is likened to {{c3::kneading dough}} with a {{c4::small axial load}}.</div>",
+                                ""
+                            ],
+                            "guid": "g;Bi,N75($",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, a {{c1::burst}} fracture is worth {{c2::2}} point(s) and is likened to {{c3::rolling dough}} with a {{c4::rolling pin}}, causing {{c5::retropulsion}} of the posterior vertebral body</div>",
+                                ""
+                            ],
+                            "guid": "g)Kj~T(#N7",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, a {{c1::translation/rotation}} injury is worth {{c2::3}} point(s) and is likened to tossing pizza dough, resulting from {{c3::shearing forces}}.</div>",
+                                ""
+                            ],
+                            "guid": "DgFdSPuJXB",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, a {{c1::distraction}} injury is worth {{c2::4}} point(s) and is likened to {{c3::tearing pizza apart}}, creating a {{c4::vertical gap}} between vertebral bodies.</div>",
+                                ""
+                            ],
+                            "guid": "p$5Lkn3`UV",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>TLICS morphology scoring: Compression = {{c1::1}} point(s), Burst = {{c2::2}} point(s), Translation = {{c3::3}} point(s), Distraction = {{c4::4}} point(s). Higher points indicate {{c5::greater force and injury severity}}.</div>",
+                                ""
+                            ],
+                            "guid": "cNT3A}EK<0",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, fracture morphology is likened to pizza-making steps: {{c1::kneading}} (compression), {{c2::rolling}} (burst), {{c3::tossing}} (translation), and {{c4::tearing}} (distraction).</div>",
+                                ""
+                            ],
+                            "guid": "Et^z~+;cd/",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, PLC integrity is scored as: Intact = {{c1::0}} point(s), Suspected injury (edema on MRI) = {{c2::2}} point(s), True disruption (rupture on MRI) = {{c3::3}} point(s)</div>",
+                                ""
+                            ],
+                            "guid": "jc/j;R(uty",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, a suspected PLC injury ({{c1::2 }} point(s)) shows {{c2::edema}} on MRI (bright T2 signal) but {{c3::intact T2 dark ligament lines}}, likened to seeing {{c4::smoke}} (suspecting fire).</div>",
+                                ""
+                            ],
+                            "guid": "M^%cFL,b|x",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, a true PLC disruption ({{c1::3}} point(s)) shows a {{c2::gap in the T2 dark ligament line}} on MRI, likened to seeing {{c3::fire}}.</div>",
+                                ""
+                            ],
+                            "guid": "A[zEmN`BW4",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>TLICS PLC injury summary: Intact = {{c1::0}} point(s), Suspected injury (edema) = {{c2::2}} point(s), Injured (true disruption) = {{c3::3}} point(s).</div>",
+                                ""
+                            ],
+                            "guid": "g[4_B:2=o$",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>In TLICS, PLC injury is likened to {{c1::smoke vs. fire}}: {{c2::smoke}} (edema, suspected injury, 2 points) vs. {{c3::fire}} (true disruption, 3 points)</div>",
+                                ""
+                            ],
+                            "guid": "NHpM^4GgxY",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>The TLICS system helps assess thoracolumbar fractures to predict {{c1::spinal stability}}, {{c2::future deformity}}, and {{c3::progressive neurologic compromise}}.</div>",
+                                ""
+                            ],
+                            "guid": "L7_{g6g/pe",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<div>TLICS scoring is made easy by remembering it as {{c1::\"pizza pie\"}} for morphology and {{c2::\"smoke vs. fire\"}} for PLC injury.</div>",
+                                "Remember: TLICS is imaging + neuro status!<br><br><img alt=\"The Radiology Assistant : TLICS Classification of fractures\" src=\"a54c216784651b_9j-TAB-overview.png\">"
+                            ],
+                            "guid": "PZC}TK~ZT$",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": []
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
+            "crowdanki_uuid": "5bb0f89b-1008-11f0-9ba5-6c2f807705b4",
+            "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Spine",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5bb36cea-1008-11f0-8105-6c2f807705b4",
+                    "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Anatomy",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The superior sagittal sinus is located along the {{c1::sagittal midline superiorly}}, running along the falx cerebri.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "rzhcBcoJgt",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The inferior sagittal sinus is positioned along the {{c1::sagittal midline inferiorly}}, also along the falx cerebri.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "k0:dD.1eO[",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The straight sinus runs straight along the {{c1::tentorium}}, the dural fold separating the cerebrum from the cerebellum.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "Id,9Dq_?`e",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The internal cerebral veins originate from the {{c1::central (internal)}} part of the cerebrum and are involved in deep venous drainage.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "O,jxT~LA`+",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The Vein of Galen connects the {{c1::internal cerebral veins}} to the straight sinus, located near the pineal gland.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "fG0N]oL8,8",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The torcula is the confluence point where the {{c1::superior sagittal sinus}}, straight sinus, and occipital sinus meet.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "j=601{9r1q",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The torcula is located below the {{c1::internal occipital protuberance}}.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "cx,zzq[>nb",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Dural venous sinuses should be checked on every {{c1::brain MRI}}, not just venograms, to avoid missing abnormalities like thrombosis.",
+                                "VenousAnatomy"
+                            ],
+                            "guid": "{Ud|^Y^3T",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "All dural venous sinuses ultimately drain into the {{c1::internal jugular vein}}.",
+                                ""
+                            ],
+                            "guid": "QJlWr&Q5s$",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Major sinuses draining the brain are found in the {{c1::falx}}.",
+                                ""
+                            ],
+                            "guid": "eD3Uj;?JDK",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Brain drainage involves the {{c1::superior sagittal}}, {{c2::inferior sagittal}}, and {{c3::straight}} sinuses.",
+                                ""
+                            ],
+                            "guid": "vW%`TWo<Nl",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The superior sagittal, inferior sagittal, and straight sinuses converge at the {{c1::confluence of sinuses}} ({{c2::torcula}}).",
+                                ""
+                            ],
+                            "guid": "JI$<fnPrB^",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "From the torcula, brain drainage flows into the {{c1::transverse sinus}}, then the {{c2::sigmoid sinus}}, and finally the internal jugular vein.",
+                                ""
+                            ],
+                            "guid": "d8P(8|UJqN",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "The {{c1::cavernous sinus}} drains the ophthalmic veins for orbital drainage.",
+                                ""
+                            ],
+                            "guid": "sH(;h-GOaA",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "From the cavernous sinus, orbital drainage flows via the {{c1::superior petrosal}} or {{c2::inferior petrosal}} sinuses into the internal jugular vein.",
+                                ""
+                            ],
+                            "guid": "j@&|#Id!hW",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Venous_Anatomy"
+                            ]
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5bb36d1b-1008-11f0-bc67-6c2f807705b4",
+                    "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Carotid Imaging",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "NASCET criteria recommend carotid endarterectomy for symptomatic patients with {{c1::70-99%}} carotid stenosis.",
+                                ""
+                            ],
+                            "guid": "Gm4!VZ8sdO",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "NASCET criteria primarily focus on {{c1::stenosis}} as the risk factor for carotid plaque, but this misses other high-risk features.",
+                                ""
+                            ],
+                            "guid": "whLDJZO%-0",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "High-risk carotid plaque features include {{c1::plaque size}}, {{c2::intraplaque hemorrhage}}, and {{c3::lipid-rich necrotic core}}.",
+                                ""
+                            ],
+                            "guid": "iiLdku?w>s",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "High-risk carotid plaque features visible on imaging include {{c1::ulceration}}, {{c2::irregularity}}, and {{c3::neovascularity}}.",
+                                ""
+                            ],
+                            "guid": "i$OKs196J6",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Intraplaque hemorrhage appears {{c1::bright}} on {{c2::precontrast T1-weighted}} MR images.",
+                                ""
+                            ],
+                            "guid": "i8F1Ub-Q{O",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Plaque {{c1::irregularity}} and {{c2::ulceration}} can be identified on routine {{c3::CT angiogram}}.",
+                                ""
+                            ],
+                            "guid": "lCj-k=p}XA",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A lipid-rich necrotic core on black blood MRI appears as {{c1::low signal}} and {{c2::non-enhancing}}.",
+                                ""
+                            ],
+                            "guid": "e?xZLOk-d]",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Plaque neovascularity on black blood MRI is seen as {{c1::adventitial enhancement}}.",
+                                ""
+                            ],
+                            "guid": "quQ/vNC.Tn",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Loss of the fibrous cap on MRI is indicated by {{c1::thinning}} or {{c2::loss}} of enhancement between the plaque and lumen.",
+                                ""
+                            ],
+                            "guid": "MwvscY1(OG",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Non-stenotic carotid plaques may cause {{c1::embolic stroke}} of undetermined source (ESUS), especially in {{c2::younger}} patients.",
+                                ""
+                            ],
+                            "guid": "mC#;TP^0.z",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Black blood MRI is used to visualize the {{c1::lipid-rich necrotic core}} by nulling the signal in the {{c2::vessels}}.",
+                                ""
+                            ],
+                            "guid": "CWwx0a%H.]",
+                            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+                            "tags": [
+                                "S0_Carotid"
+                            ]
+                        }
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                }
+            ],
+            "crowdanki_uuid": "5bb36ce6-1008-11f0-bdc9-6c2f807705b4",
+            "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Vascular",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
     "crowdanki_uuid": "2a31e750-0fc2-11f0-b21e-6c2f807705b4",
     "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
     "deck_configurations": [
