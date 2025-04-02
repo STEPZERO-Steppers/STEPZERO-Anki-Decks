@@ -1,0 +1,221 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "2a31e750-0fc2-11f0-b21e-6c2f807705b4",
+    "deck_config_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+    "deck_configurations": [
+        {
+            "DisableFW": 0,
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoAgain": 6,
+            "autoAlert": 0,
+            "autoAnswer": 10,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "2a31e751-0fc2-11f0-968c-6c2f807705b4",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [
+                0.5594,
+                2.3933,
+                6.5717,
+                15.5887,
+                7.2181,
+                0.5458,
+                1.5478,
+                0.001,
+                1.4773,
+                0.0874,
+                0.9587,
+                1.9451,
+                0.1042,
+                0.3023,
+                2.2663,
+                0.2477,
+                2.9898,
+                0.538,
+                0.5797
+            ],
+            "fsrsWeights": [
+                0.73995626,
+                1.0223852,
+                1.6604561,
+                10.094011,
+                5.0576963,
+                0.6407253,
+                0.9658567,
+                0.043761916,
+                1.7361987,
+                0.16119033,
+                1.0460167,
+                2.279353,
+                0.06975484,
+                0.37319046,
+                1.8887945,
+                0.13635457,
+                2.554541
+            ],
+            "ignoreRevlogsBeforeDate": "1970-01-01",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    1.0
+                ],
+                "leechAction": 1,
+                "leechFails": 16,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 120,
+            "name": "Padrão",
+            "new": {
+                "LBEIMinAfter": 4,
+                "LBEIMinBefore": 4,
+                "LBGIMinAfter": 1,
+                "LBGIMinBefore": 1,
+                "bury": false,
+                "delays": [
+                    1.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 50
+            },
+            "newGatherPriority": 4,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "questionAction": 0,
+            "replayq": true,
+            "rescheduleFsrsCards": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 9999
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 1,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Neurosurgery - STEPZERO",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "TCE",
+                "neuro"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "This deck is dedicated to {{c1::medical students}} and&nbsp;{{c2::physicians}} interested in Neurosurgery!",
+                "One of the first collaborative decks on the STEPZERO community"
+            ],
+            "guid": "rjVrMb{~0[",
+            "note_model_uuid": "2a3479b0-0fc2-11f0-b48f-6c2f807705b4",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
